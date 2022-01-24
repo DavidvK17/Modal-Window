@@ -1,6 +1,6 @@
 'use strict';
 
-// getting button element
+// getting elements
 const btns = document.querySelectorAll('button');
 const modals = document.querySelectorAll('.modal');
 const overlay = document.querySelector('.overlay');
