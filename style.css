@@ -44,7 +44,7 @@ button:hover {
   border-radius: 5px;
   box-shadow: 4px 4px 2px 1px rgba(100, 100, 100, 0.2);
   width: 50vw;
-  height: 50vh;
+  height: 25vh;
   position: absolute;
   z-index: 2;
   top: 50%;
